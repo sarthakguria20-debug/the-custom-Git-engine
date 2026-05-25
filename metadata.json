@@ -1,0 +1,6 @@
+{
+  "name": "Custom Git Implementation in Node",
+  "description": "Visualizing git internals: content addressable storage, zlib compression, and SHA-1 hashing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
